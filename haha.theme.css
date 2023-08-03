@@ -35,8 +35,8 @@
   --overlay-image-blur: 3px;
   --overlay-image-size: 150%;
   --overlay-image-position: center;
-  --home-button-image: url('https://i.pinimg.com/originals/b4/37/17/b437178f48f57a0484b9860d7e8c0b8d.png');
-  --home-button-size: 200%;
+  --home-button-image: url('https://gifdb.com/images/high/discord-pfp-logo-tired-cat-9vh3bh1hfgeotscx.gif');
+  --home-button-size: contain;
   --home-button-position: center;
   --serverlist-brightness: 0.56;
   --left-brightness: 0.56;
