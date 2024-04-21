@@ -24,7 +24,7 @@
 
 :root {
   --background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh-923X3jxbewq36httxjpdtc-UJAZma81UA&s');
-  --background-image-blur: 4px;
+  --background-image-blur: 0px;
   --background-image-size: cover;
   --background-image-position: center;
   --popout-image: url('https://c4.wallpaperflare.com/wallpaper/25/801/272/ford-mustang-car-street-wallpaper-preview.jpg');
